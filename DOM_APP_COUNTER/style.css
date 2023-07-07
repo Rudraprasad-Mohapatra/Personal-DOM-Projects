@@ -59,8 +59,3 @@ body{
     align-items: center;
     justify-content: center;
 }
-
-.links{
-    display:flex;
-    flex-direction:column;
-}
